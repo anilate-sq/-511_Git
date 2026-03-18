@@ -1,2 +1,2 @@
-spaces=16
-timeout=80
+spaces=32
+timeout=50
